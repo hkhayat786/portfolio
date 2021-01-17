@@ -35,7 +35,6 @@ hr{
     font-weight: 400;
     color: rgb(107, 194, 252);
     animation: filter 6s linear 2s infinite;
-    font-family: 'pacifico',sans-serif;
 }
 .intro h2{
     font-size: 5rem;
